@@ -1,6 +1,6 @@
-owner=هنا الايد بتعك
-prefix=هنا البروفكس
+owner=601918280159985666
+prefix=#
 game=هنا الحلا
 stayinchannel=true
 songinstatus=false
-token=هنا التوكن
+token=NjM0NDEzNjA1NjM4NTA0NDUx.Xai9xg.jh_ZtSm-WEb8-RmiyNBG2DXRqsY
